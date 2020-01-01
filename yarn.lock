@@ -5774,10 +5774,10 @@ spdx-license-ids@^3.0.0:
   version "3.0.1"
   resolved "https://registry.npmjs.org/spdx-license-ids/-/spdx-license-ids-3.0.1.tgz#e2a303236cac54b04031fa7a5a79c7e701df852f"
 
-spectacle@5.7.1:
-  version "5.7.1"
-  resolved "https://registry.yarnpkg.com/spectacle/-/spectacle-5.7.1.tgz#0560e9af9c6f4ad0384283fef1976eb44f4a8ef4"
-  integrity sha512-KMGHmrOBI7zB7fiMx4F6xIRIvj9P7NSCI/jex6UbeWE00kyWb0dKCNDLAa7fHVF4n7i5ZsjAwONfjHQ2BW9ADw==
+spectacle@5.7.2:
+  version "5.7.2"
+  resolved "https://registry.yarnpkg.com/spectacle/-/spectacle-5.7.2.tgz#0891d75da4c224312178ca4f53c4af5f2d9a4971"
+  integrity sha512-9GBxa94KD2fUw70DH3o6bm2LtkPCtlVfFUNaApM0JN/M/d1f2GLfuWwLJEEEt8ZgKiutVtdsU4saKozl0iKMQg==
   dependencies:
     csstype "^2.6.0"
     deep-object-diff "^1.1.0"
